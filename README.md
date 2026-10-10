@@ -55,7 +55,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <!--   TECH STACK   -->
 
-<h2 align="center"> My Technology Stack</h2>
+<h1> My Technology Stack</h1>
 
 <p align="center">
 
