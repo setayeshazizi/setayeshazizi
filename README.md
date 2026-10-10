@@ -177,11 +177,12 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
     <strong>Focus:</strong> Responsive UI · User Experience · Web Development
   </p>
 
-  <p align="center">
-    <a href="https://github.com/setayeshazizi/kaarYab">
-      <strong>Explore Project →</strong>
-    </a>
   </p>
+  <p align="center">
+  <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+    <strong>Explore Project →</strong>
+  </a>
+</p>
 </td>
 
 <td width="50%" valign="top">
@@ -222,7 +223,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ Product Store App</h3>
+      <h3 align="center"> Product Store App</h3>
 
   <p align="center">
     A modern React e-commerce application exploring product
@@ -241,7 +242,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 </td>
 
 <td width="50%" valign="top">
-  <h3 align="center">🌍 World Explorer</h3>
+  <h3 align="center"> World Explorer</h3>
 
   <p align="center">
     A country-exploration application for discovering information
