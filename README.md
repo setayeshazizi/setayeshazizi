@@ -197,7 +197,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <br/>
 
-### More Projects
+<h3 align="center"> More Project </h3>
 
 <table align="center">
   <tr>
