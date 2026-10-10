@@ -1,6 +1,11 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,50:7C5CFF,100:4CC9F0&height=220&section=header&text=Setayesh%20Azizi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js%20Developer&descSize=17&descAlignY=55" width="100%" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,50:7C5CFF,100:4CC9F0&height=250&section=header&text=SETAYESH%20AZIZI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%7C%20REACT%20%26%20NEXT.JS&descSize=17&descAlignY=58"
+    width="100%"
+    alt="Setayesh Azizi - Frontend Engineer"
+  />
+</p>
 
 <a href="https://readme-typing-svg.demolab.com/">
 
