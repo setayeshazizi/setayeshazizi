@@ -143,58 +143,85 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 ---
 
-<!-- Featured Projects -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 # Featured Projects
 
 <p align="center">
-  A selection of projects showcasing my approach to building
-  modern, intuitive, and user-focused web experiences.
+  Selected projects showcasing my approach to building
+  practical, modern, and user-focused web applications.
 </p>
 
 <br/>
 
 <div align="center">
-<a href="https://github.com/setayeshazizi/kaarYab">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=NexusAI&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0"
-      alt="NexusAI — Featured GitHub Project"
-    />
-  </a>
 
-  <a href="https://github.com/setayeshazizi/goal-tracker">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=product-store-app&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0"
-      alt="LUXSTORE — E-commerce Project"
-    />
-  </a>
+<a href="https://github.com/setayeshazizi/kaaryab-test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=kaaryab-test&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="KaarYab repository"/>
+</a>
+
+<a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satayesh-Esmaily&repo=Goal-Tracker-&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="Goal Tracker repository"/>
+</a>
 
 </div>
 
 <br/>
 
-<h3 align="center"> More Projects</h3>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>KaarYab</h3>
+      <p>
+        An opportunity-finding platform designed to help users
+        discover relevant opportunities through a modern,
+        organized web experience.
+      </p>
+      <a href="https://github.com/setayeshazizi/kaaryab-test">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Goal Tracker</h3>
+      <p>
+        A goal-management application featuring organized workflows,
+        authentication, persistent data, and a responsive interface.
+      </p>
+      <p><strong>Stack:</strong> React, Vite, Material UI, Firebase</p>
+      <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### More Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>Product Store App</h4>
+      <h3>Product Store App</h3>
       <p>
-        An opportunity-finding platform designed to help users
-        discover relevant opportunities through a modern web experience.
+        A React e-commerce application exploring product management,
+        state management, and data-fetching patterns.
       </p>
+      <p><strong>Stack:</strong> React, Redux Toolkit, React Query</p>
       <a href="https://github.com/setayeshazizi/product-store-app">
-        ↗️ View Repository
+        View Repository →
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>World Explorer</h4>
+      <h3>World Explorer</h3>
       <p>
-        A goal-management application focused on usability,
-        organized workflows, and a clean user experience.
+        A country-exploration application featuring flags, capitals,
+        populations, regions, languages, currencies, and time zones,
+        with search and filtering capabilities.
       </p>
+      <p><strong>Stack:</strong> Next.js, REST Countries API</p>
       <a href="https://github.com/setayeshazizi/world-explorer">
-        ↗️ View Repository
+        View Repository →
       </a>
     </td>
   </tr>
