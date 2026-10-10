@@ -87,7 +87,8 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=figma,framer&theme=dark" alt="Figma and Framer"/>
+   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
 
 
 </p>
