@@ -53,25 +53,91 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 ---
 
 
-# Tech Stack
+<!--   TECH STACK   -->
+
+<h2 align="center"> My Technology Stack</h2>
+
+<p align="center">
+
+  Technologies and tools I use to build modern web experiences.
+
+</p>
+
+<br/>
+
 <div align="center">
-  
-Frontend Development:
 
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&theme=dark" alt="Frontend technologies"/>
-  
-Tools & Design:
+### 01 · Frontend Engineering
 
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Development and design tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js"/>
 
-Data & Programming:
+</p>
 
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python and R"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=dark" alt="Tailwind CSS, Bootstrap and Material UI"/>
+
+</p>
+
+<br/>
+
+### 02 · UI/UX & Design
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=figma,framer&theme=dark" alt="Figma and Framer"/>
+
+</p>
+
+<br/>
+
+### 03 · Development Tools
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code"/>
+
+</p>
+
+<br/>
+
+### 04 · Programming & Data
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python and R"/>
+
+</p>
+
+<p>
+
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-306998?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/Data%20Analysis-Analytics-7C5CFF?style=for-the-badge" alt="Data Analysis"/>
+
+</p>
+
+<br/>
+
+### 05 · Additional Tools
+
+<p>
+
+  <img src="https://img.shields.io/badge/Vercel-Deployment-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-087EA4?style=for-the-badge" alt="REST APIs"/>
+
+</p>
 
 </div>
+
+<br/>
 
 
 ---
