@@ -19,8 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=setayeshazizi&style=flat-square&color=7C5CFF&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
-
-⸻
+---
 
 
 About Me
