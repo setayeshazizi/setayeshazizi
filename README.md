@@ -4,13 +4,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:040714,45:302060,75:7C5CFF,100:4CC9F0&text=SETAYESH%20AZIZI&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Designer&descAlignY=58&descSize=16&animation=fadeIn" alt="Setayesh Azizi Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&color=9B8AFF&lines=Frontend+Developer+%7C+React+%2B+Next.js;Building+Modern+%26+Responsive+Web+Experiences;TypeScript+%7C+Tailwind+CSS+%7C+UI%2FUX;Turning+Ideas+Into+Elegant+Digital+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&color=9B8AFF&lines=React+%2B+Next.js%2BTypeScript+%2BPython;Building+Modern+%26+Responsive+Web+Experiences;TypeScript+%7C+Tailwind+CSS+%7C+UI%2FUX;Turning+Ideas+Into+Elegant+Digital+Products" alt="Typing SVG"/>
 
 <br/>
 
 ### Crafting elegant interfaces. Building meaningful digital experiences.
 
-Frontend developer focused on React, Next.js, and TypeScript, with an interest in thoughtful UI/UX, responsive design, and building modern web applications.
+Frontend developer focused on React, Next.js, TypeScript and Python with an interest in thoughtful UI/UX, responsive design, and building modern web applications.
 
 <br/>
 
