@@ -46,7 +46,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 # Tech Stack
 <div align="center">
   
-Frontend Development :
+Frontend Development:
 
   
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&theme=dark" alt="Frontend technologies"/>
@@ -56,7 +56,7 @@ Tools & Design:
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Development and design tools"/>
 
-Data & Programming
+Data & Programming:
 
 
 <img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python and R"/>
@@ -67,8 +67,9 @@ Data & Programming
 ---
 
 
-Featured Projects
+# Featured Projects
 <div align="center">
+  
 <a href="https://github.com/setayeshazizi/NexusAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=NexusAI&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="NexusAI repository"/>
 </a>
@@ -76,8 +77,11 @@ Featured Projects
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=product-store-app&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="Product Store repository"/>
 </a>
 </div>
+
 Other Projects
+
 • KaarYab (https://github.com/setayeshazizi/kaaryab-test) — An opportunity-finder platform built with a modern web stack.
+
 • Goal Tracker (https://github.com/Satayesh-Esmaily/Goal-Tracker-) — A goal-management application with a focus on usability and organization.
 
 
