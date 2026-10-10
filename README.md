@@ -88,7 +88,7 @@ Other Projects
 ---
 
 
-GitHub Analytics
+# GitHub Analytics
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=setayeshazizi&show_icons=true&rank_icon=github&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0&text_color=C9D1D9" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshazizi&layout=compact&hide_border=true&bg_color=080B18&title_color=9B8AFF&text_color=C9D1D9" alt="Most used languages"/>
@@ -100,7 +100,7 @@ GitHub Analytics
 ---
 
 
-Let’s Connect
+# Let’s Connect
 <div align="center">
 Interested in frontend development, creative web experiences, and meaningful collaborations?
 <a href="mailto:setayeshazizi124@gmail.com">
