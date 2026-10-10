@@ -1,4 +1,4 @@
-
+<div align="center">
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,50:7C5CFF,100:4CC9F0&height=250&section=header&text=SETAYESH%20AZIZI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%7C%20REACT%20%26%20NEXT.JS&descSize=17&descAlignY=58"
