@@ -154,76 +154,112 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/setayeshazizi/kaarYab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=kaarYab&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="KaarYab repository"/>
-</a>
-
-<a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satayesh-Esmaily&repo=Goal-Tracker-&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="Goal Tracker repository"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>KaarYab</h3>
-      <p>
-        An opportunity-finding platform designed to help users
-        discover relevant opportunities through a modern,
-        organized web experience.
-      </p>
-      <a href="https://github.com/setayeshazizi/kaaryab-test">
-        View Repository →
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Goal Tracker</h3>
-      <p>
-        A goal-management application featuring organized workflows,
-        authentication, persistent data, and a responsive interface.
-      </p>
-      <p><strong>Stack:</strong> React, Vite, Material UI, Firebase</p>
-      <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
-        View Repository →
-      </a>
-    </td>
+      <div align="center">
+        <a href="https://github.com/setayeshazizi/kaarYab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=kaarYab&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="KaarYab Repository" width="100%"/>
+        </a>
+      </div>
+
+```
+  <h3 align="center">🚀 KaarYab</h3>
+
+  <p align="center">
+    An opportunity-finding platform designed to help users
+    explore and discover relevant opportunities through a
+    modern, organized, and user-friendly interface.
+  </p>
+
+  <p align="center">
+    <strong>Focus:</strong> Responsive UI · User Experience · Web Development
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/setayeshazizi/kaarYab">
+      <strong>Explore Project →</strong>
+    </a>
+  </p>
+</td>
+
+<td width="50%" valign="top">
+  <div align="center">
+    <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satayesh-Esmaily&repo=Goal-Tracker-&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="Goal Tracker Repository" width="100%"/>
+    </a>
+  </div>
+
+  <h3 align="center">🎯 Goal Tracker</h3>
+
+  <p align="center">
+    A goal-management application designed to help users
+    organize goals, manage progress, and maintain a structured
+    workflow through a responsive interface.
+  </p>
+
+  <p align="center">
+    <strong>Stack:</strong> React · Vite · Material UI · Firebase
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+      <strong>Explore Project →</strong>
+    </a>
+  </p>
+</td>
+```
+
   </tr>
 </table>
 
 <br/>
 
-<h3 align="center"> More Project </h3>
+---
 
-<table align="center">
+<h3 align="center">✨ More Projects</h3>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Product Store App</h3>
-      <p>
-        A React e-commerce application exploring product management,
-        state management, and data-fetching patterns.
-      </p>
-      <p><strong>Stack:</strong> React, Redux Toolkit, React Query</p>
-      <a href="https://github.com/setayeshazizi/product-store-app">
-        View Repository →
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>World Explorer</h3>
-      <p>
-        A country-exploration application featuring flags, capitals,
-        populations, regions, languages, currencies, and time zones,
-        with search and filtering capabilities.
-      </p>
-      <p><strong>Stack:</strong> Next.js, REST Countries API</p>
-      <a href="https://github.com/setayeshazizi/world-explorer">
-        View Repository →
-      </a>
-    </td>
+      <h3 align="center">🛍️ Product Store App</h3>
+
+  <p align="center">
+    A modern React e-commerce application exploring product
+    browsing, cart state management, and efficient data fetching.
+  </p>
+
+  <p align="center">
+    <strong>Stack:</strong> React · Redux Toolkit · React Query
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/setayeshazizi/product-store-app">
+      View Repository →
+    </a>
+  </p>
+</td>
+
+<td width="50%" valign="top">
+  <h3 align="center">🌍 World Explorer</h3>
+
+  <p align="center">
+    A country-exploration application for discovering information
+    about countries, including capitals, populations, regions,
+    languages, currencies, and time zones.
+  </p>
+
+  <p align="center">
+    <strong>Stack:</strong> Next.js · REST Countries API
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/setayeshazizi/world-explorer">
+      View Repository →
+    </a>
+  </p>
+</td>
+
   </tr>
 </table>
 
