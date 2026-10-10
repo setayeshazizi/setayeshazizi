@@ -23,7 +23,7 @@
 ---
 
 
-#About Me
+# About Me
 
 I’m a frontend developer focused on building modern, responsive, and thoughtfully designed web applications.
 
