@@ -19,6 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=setayeshazizi&style=flat-square&color=7C5CFF&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
+
 ---
 
 
@@ -32,7 +33,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 📍 Herat, Afghanistan
 
 
-⸻
+---
 
 
 Tech Stack
@@ -46,7 +47,7 @@ Data & Programming
 </div>
 
 
-⸻
+---
 
 
 Featured Projects
@@ -63,7 +64,7 @@ Other Projects
 • Goal Tracker (https://github.com/Satayesh-Esmaily/Goal-Tracker-) — A goal-management application with a focus on usability and organization.
 
 
-⸻
+---
 
 
 GitHub Analytics
@@ -75,7 +76,7 @@ GitHub Analytics
 </div>
 
 
-⸻
+---
 
 
 Let’s Connect
