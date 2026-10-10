@@ -165,7 +165,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 
 
-  <h3 align="center">🚀 KaarYab</h3>
+  <h3 align="center"> KaarYab</h3>
 
   <p align="center">
     An opportunity-finding platform designed to help users
@@ -191,7 +191,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
     </a>
   </div>
 
-  <h3 align="center">🎯 Goal Tracker</h3>
+  <h3 align="center"> Goal Tracker</h3>
 
   <p align="center">
     A goal-management application designed to help users
@@ -209,16 +209,15 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
     </a>
   </p>
 </td>
-```
 
   </tr>
 </table>
 
 <br/>
 
----
 
-<h3 align="center">✨ More Projects</h3>
+
+<h3 align="center"> More Projects</h3>
 
 <table width="100%">
   <tr>
