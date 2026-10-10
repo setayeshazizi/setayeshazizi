@@ -55,7 +55,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <!--   TECH STACK   -->
 
-<h1> My Technology Stack</h1>
+# My Technology Stack
 
 <p align="center">
 
@@ -178,18 +178,39 @@ Other Projects
 ---
 
 
-# Let’s Connect
-<div align="center">
-Interested in frontend development, creative web experiences, and meaningful collaborations?
-<a href="mailto:setayeshazizi124@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Together-7C5CFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact me"/>
-</a>
-GitHub ·
-LinkedIn ·
-Email
-</div>
+<!--  Let's Connect  -->
+
+# Let's Connect
+
+<p align="center">
+  I'm always open to meaningful collaborations, creative ideas, and conversations about:
+</p>
+
+<p align="center">
+  Front-End Development · React & Next.js · TypeScript · UI/UX Design ·
+  Modern Web Experiences · AI-Powered Applications · Open Source
+</p>
+
 <br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,45:302060,75:7C5CFF,100:4CC9F0&height=110&section=footer" width="100%" alt="Decorative footer"/>
-Designed with intention. Built with curiosity. Improved with every commit.
+
+  <a href="https://github.com/setayeshazizi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/setayesh-azizi-b51024358/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:setayeshazizi124@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-7C5CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <i>"Designed with intention. Built with curiosity. Improved with every commit."</i>
+
+  <br/><br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,45:302060,75:7C5CFF,100:4CC9F0&height=120&section=footer" alt="Gradient footer"/>
+
 </div>
