@@ -46,11 +46,14 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 # Tech Stack
 <div align="center">
 Frontend Development
+  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&theme=dark" alt="Frontend technologies"/>
   
 Tools & Design
+
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Development and design tools"/>
 Data & Programming
+
 <img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python and R"/>
 </div>
 
