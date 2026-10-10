@@ -180,7 +180,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
   </p>
   <p align="center">
   <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-" ">
-    <strong style="text-decoration: none;>Explore Project →</strong>
+    <strong>Explore Project →</strong>
   </a>
 </p>
 </td>
@@ -205,7 +205,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
   </p>
 
   <p align="center">
-    <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-" style="text-decoration: none;">
+    <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
       <strong>Explore Project →</strong>
     </a>
   </p>
