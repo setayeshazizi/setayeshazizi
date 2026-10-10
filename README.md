@@ -157,14 +157,14 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <div align="center">
 
-  <a href="https://github.com/setayeshazizi/NexusAI">
+  <a href="https://github.com/setayeshazizi/kaarYab">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=NexusAI&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0"
       alt="NexusAI — Featured GitHub Project"
     />
   </a>
 
-  <a href="https://github.com/setayeshazizi/product-store-app">
+  <a href="https://github.com/setayeshazizi/goal-tracker">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=product-store-app&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0"
       alt="LUXSTORE — E-commerce Project"
@@ -175,27 +175,27 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <br/>
 
-<h3 align="center">⌘ More Projects</h3>
+<h3 align="center"> More Projects</h3>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>◈ KaarYab</h4>
+      <h4>Product Store App</h4>
       <p>
         An opportunity-finding platform designed to help users
         discover relevant opportunities through a modern web experience.
       </p>
-      <a href="https://github.com/setayeshazizi/kaaryab-test">
+      <a href="https://github.com/setayeshazizi/product-store-app">
         ↗ View Repository
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>◎ Goal Tracker</h4>
+      <h4>World Explorer</h4>
       <p>
         A goal-management application focused on usability,
         organized workflows, and a clean user experience.
       </p>
-      <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-">
+      <a href="https://github.com/setayeshazizi/world-explorer">
         ↗ View Repository
       </a>
     </td>
