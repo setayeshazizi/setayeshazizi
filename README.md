@@ -23,13 +23,20 @@
 ---
 
 
-About Me
+#About Me
+
 I’m a frontend developer focused on building modern, responsive, and thoughtfully designed web applications.
+
 I enjoy turning ideas and UI designs into polished digital experiences, with attention to usability, performance, accessibility, and clean code.
+
 • Core focus: React, Next.js, and TypeScript
+
 • UI & design: Tailwind CSS, Material UI, Figma, and Framer
+
 • Beyond frontend: Python, SQL, R, and data analysis
+
 • Learning mindset: Continuously exploring better ways to build for the web
+
 📍 Herat, Afghanistan
 
 
