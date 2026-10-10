@@ -143,7 +143,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- FEATURED PROJECTS =-->
 
 # Featured Projects
 
@@ -156,7 +156,7 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
 <div align="center">
 
-<a href="https://github.com/setayeshazizi/kaaryab-test">
+<a href="https://github.com/setayeshazizi/kaarYab">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=setayeshazizi&repo=kaaryab-test&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=9B8AFF&icon_color=4CC9F0" alt="KaarYab repository"/>
 </a>
 
