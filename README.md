@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=Crafting+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Design-minded.+Detail-oriented.+Always+building." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=Crafting+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Design-minded.+Detail-oriented.+Always+building." alt="Animated introduction"/>
 </a>
 <br/>
 
