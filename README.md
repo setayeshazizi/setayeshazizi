@@ -1,12 +1,11 @@
 <div align="center">
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:040714,50:7C5CFF,100:4CC9F0&height=250&section=header&text=SETAYESH%20AZIZI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%7C%20REACT%20%26%20NEXT.JS&descSize=17&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:040714,50:7C5CFF,100:4CC9F0&amp;height=220&amp;section=header&amp;text=SETAYESH%20AZIZI&amp;fontSize=48&amp;fontColor=ffffff"
     width="100%"
-    alt="Setayesh Azizi - Frontend Engineer"
+    alt="Setayesh Azizi"
   />
 </p>
-
 <a href="https://readme-typing-svg.demolab.com/">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+reality" alt="Typing SVG" />
