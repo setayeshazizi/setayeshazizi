@@ -179,8 +179,8 @@ I enjoy turning ideas and UI designs into polished digital experiences, with att
 
   </p>
   <p align="center">
-  <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-" style="text-decoration: none;">
-    <strong>Explore Project →</strong>
+  <a href="https://github.com/Satayesh-Esmaily/Goal-Tracker-" ">
+    <strong style="text-decoration: none;>Explore Project →</strong>
   </a>
 </p>
 </td>
