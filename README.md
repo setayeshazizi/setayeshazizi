@@ -1,23 +1,31 @@
+
+<!--  PROFILE HEADER  -->
+
 <div align="center">
-  
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:040714,50:7C5CFF,100:4CC9F0&amp;height=220&amp;section=header&amp;text=SETAYESH%20AZIZI&amp;fontSize=48&amp;fontColor=ffffff"
-    width="100%"
-    alt="Setayesh Azizi"
-  />
-</p>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=Crafting+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Design-minded.+Detail-oriented.+Always+building." alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:040714,45:302060,75:7C5CFF,100:4CC9F0&text=SETAYESH%20AZIZI&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=16&animation=fadeIn" alt="Setayesh Azizi Profile Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&color=9B8AFF&lines=Frontend+Developer+%7C+React+%2B+Next.js;Building+Modern+%26+Responsive+Web+Experiences;TypeScript+%7C+Tailwind+CSS+%7C+UI%2FUX;Turning+Ideas+Into+Elegant+Digital+Products" alt="Typing SVG"/>
+
+<br/>
+
+### Crafting elegant interfaces. Building meaningful digital experiences.
+
+Frontend developer focused on React, Next.js, and TypeScript, with an interest in thoughtful UI/UX, responsive design, and building modern web applications.
+
+<br/>
+
+<a href="https://github.com/setayeshazizi">
+
+  <img src="https://img.shields.io/badge/GitHub-SetayeshAzizi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
 </a>
-<br/>
 
+<a href="https://www.linkedin.com/in/setayesh-azizi-b51024358/">
 
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=setayeshazizi&style=flat-square&color=7C5CFF&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
+</a>
 
 
 ---
